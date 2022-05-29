@@ -10,9 +10,9 @@ To do:
 - [X] Arrays
 - [X] Slices
 - [X] Funcs
-- [ ] Pointers
+- [X] Pointers
 - [ ] Strings
-- [ ] Maps
+- [X] Maps
 - [ ] Structs
 - [ ] Interfaces
 - [ ] Goroutine

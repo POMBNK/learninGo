@@ -13,7 +13,7 @@ To do:
 - [X] Pointers
 - [ ] Strings
 - [X] Maps
-- [ ] Structs
+- [X] Structs
 - [ ] Interfaces
 - [ ] Goroutine
 - [ ] Channels

@@ -11,7 +11,7 @@ To do:
 - [X] Slices
 - [X] Funcs
 - [X] Pointers
-- [ ] Strings
+- [X] Strings
 - [X] Maps
 - [X] Structs
 - [ ] Interfaces
